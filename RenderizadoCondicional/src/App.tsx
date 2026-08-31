@@ -1,4 +1,4 @@
-import RenderizadoCondicional from "./RenderizadoCondicional";
+import RenderizadoCondicional from "./components/RenderizadoCondicional";
 
 function App() {
   return <RenderizadoCondicional />;

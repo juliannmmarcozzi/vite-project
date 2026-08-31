@@ -1,6 +1,6 @@
 import { useState } from "react";
-import "./App.css";
-import LogInForm from "./LoginForm";
+import "../App.css";
+import LogInForm from "./LogInForm";
 import LoggedIn from "./LoggedIn";
 
 export default function RenderizadoCondicional() {
